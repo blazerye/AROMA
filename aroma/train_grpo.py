@@ -12,9 +12,9 @@ from trl.trainer.utils import selective_log_softmax
 from data_process import GenePerturbationDataset 
 from model_grpo import BioQwenModelForGRPO
 
-BASE_MODEL_PATH = "model/qwen3-8b-multimodal" # Please download the model from our anonymous Hugging Face
+BASE_MODEL_PATH = "model/qwen3-8b-multimodal"
 SFT_CHECKPOINT_FILE = "../data/Knowledge_Graph/checkpoints_one_hop_1024_dimension_experiments"
-DATA_PATH = "../data/grpo_multimodal_data.json"  # The specific data will be open-sourced after the paper is accepted.
+DATA_PATH = "../data/grpo_multimodal_data.json"
 ESM_EMB_PATH = "../data/protein_embeddings.pt"
 GNN1_EMB_PATH = "../data/Knowledge_Graph/pathway_subgraph_embeddings_one_hop_large_1024_verified_undirected.pth"
 GNN2_EMB_PATH = "../data/Knowledge_Graph/gene_subgraph_embeddings_one_hop_large_1024_verified_undirected.pth"

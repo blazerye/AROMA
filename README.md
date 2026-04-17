@@ -67,6 +67,16 @@ python gnn_pretrain_pathway_graph.py
 # Inference (Extracting embeddings)
 python gnn_inference_pathway_graph.py
 ```
+
+### Prepare the Base Model
+Please first download the original **Qwen3-8B** model from the official Hugging Face repository:  
+https://huggingface.co/Qwen/Qwen3-8B
+Then, run the following commands:
+```bash
+cd aroma
+python modify_tokenizer.py
+```
+
 ### AROMA Model Training
 The training process follows a two-stage optimization strategy.
 
