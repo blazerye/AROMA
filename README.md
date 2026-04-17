@@ -5,7 +5,7 @@
 <h2 align="center"> 🧬 AROMA: Augmented Reasoning Over a Multimodal Architecture for Virtual Cell Genetic Perturbation Modeling </h2>
 
 <p align="center">
-  📃 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Model</a> • 🗂️ <a href="https://huggingface.co/blazerye/PerturbReason" target="_blank">Datasets</a><br>
+  📃 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Model</a> • 🗂️ <a href="https://huggingface.co/datasets/blazerye/PerturbReason" target="_blank">Datasets</a><br>
 </p>
 </p>
 
@@ -95,7 +95,7 @@ The pretrained AROMA model checkpoints have been released on Hugging Face at [bl
 
 ## 🗂️ Datasets
 - **Gene-KG and Path-KG.** We release the complete versions of Gene-KG and Path-KG in this repository to support running our codebase and facilitate downstream research. 
-- **PerturbReason.** For the PerturbReason dataset, only a 1,000-sample subset is publicly released in this repository for demonstration and verification purposes. The full PerturbReason dataset is available at [blazerye/PerturbReason](https://huggingface.co/blazerye/PerturbReason).
+- **PerturbReason.** For the PerturbReason dataset, only a 1,000-sample subset is publicly released in this repository for demonstration and verification purposes. The full PerturbReason dataset is available at [blazerye/PerturbReason](https://huggingface.co/datasets/blazerye/PerturbReason).
 
 ## 📌 Citation
 If you find AROMA useful for your research and applications, please cite using this BibTeX:
