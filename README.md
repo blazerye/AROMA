@@ -5,7 +5,7 @@
 <h2 align="center"> 🧬 AROMA: Augmented Reasoning Over a Multimodal Architecture for Virtual Cell Genetic Perturbation Modeling </h2>
 
 <p align="center">
-  📃 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Model</a> • 🗂️ <a href="https://huggingface.co/datasets/blazerye/PerturbReason" target="_blank">Datasets</a><br>
+  📃 <a href="https://arxiv.org/pdf/2604.20263" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/blazerye/AROMA" target="_blank">Model</a> • 🗂️ <a href="https://huggingface.co/datasets/blazerye/PerturbReason" target="_blank">Datasets</a><br>
 </p>
 </p>
 
