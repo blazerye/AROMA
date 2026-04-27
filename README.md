@@ -110,11 +110,10 @@ The pretrained AROMA model checkpoints have been released on Hugging Face at [bl
 ## 📌 Citation
 If you find AROMA useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@inproceedings{wang2026aroma,
-    title="{AROMA}: Augmented Reasoning Over a Multimodal Architecture for Virtual Cell Genetic Perturbation Modeling",
-    author="Wang, Zhenyu and Ye, Geyan and Liu, Wei and Ng, Man Tat Alexander",
-    booktitle="Findings of the Association for Computational Linguistics: ACL 2026",
-    year="2026",
-    publisher="Association for Computational Linguistics"
+@article{wang2026aroma,
+  title={AROMA: Augmented Reasoning Over a Multimodal Architecture for Virtual Cell Genetic Perturbation Modeling},
+  author={Wang, Zhenyu and Ye, Geyan and Liu, Wei and Ng, Man Tat Alexander},
+  journal={arXiv preprint arXiv:2604.20263},
+  year={2026}
 }
 ```
